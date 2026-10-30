@@ -1,6 +1,6 @@
 <div class="fields">
-<label>Country/Region</label>
-<select name="country[]" class="country-length" style="margin-bottom: 10px;">
+<label for="country-0">Country/Region</label>
+<select id="country-0" name="country[]" class="country-length" style="margin-bottom: 10px;margin-top:0px;">
   <option value="US">United States</option>
 </select>
 
